@@ -51,8 +51,7 @@ Web-based smart e-waste management project for submission, collection and tracki
 ### Infotris
 A web project focused on organizing knowledge into structured learning paths.
 
-### Sidekick
-A long-term project idea for an AI assistant that can interact with applications and help automate everyday tasks.
+
 
 ## Currently Learning
 
