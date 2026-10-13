@@ -1,167 +1,223 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:101820,50:17324D,100:3977D5&text=RIAN&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26%20ML&descSize=17&descAlignY=61&animation=fadeIn" alt="Rian — Computer Science, AI and ML" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=68A7FF&center=true&vCenter=true&width=600&lines=Building+things%2C+one+project+at+a+time.;Learning+software+engineering+through+practice.;Exploring+AI%2C+ML+and+intelligent+systems." alt="Introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,35:102A43,70:164E8A,100:3978FF&text=SURYANSH&fontSize=65&fontColor=FFFFFF&fontAlignY=36&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20EXPLORE&descSize=17&descAlignY=59&animation=fadeIn" alt="Suryansh animated header" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/suryansh-cse)
-[![Infotris](https://img.shields.io/badge/Infotris-2864DC?style=flat-square&logo=googlechrome&logoColor=white)](https://infotris.com)
-![Student](https://img.shields.io/badge/CSE-Student-2864DC?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Software%20%26%20AI-273746?style=flat-square)
-
-</div>
-
----
-
-## About
-
-Hey, I'm **Suryansh**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning at Lovely Professional University**.
-
-I enjoy taking an idea, figuring out how it could work, and turning it into something people can actually use.
-
-Right now, I'm building my foundation in programming, web development, backend systems, and AI/ML through coursework and personal projects.
-
-I'm particularly interested in the intersection of **software engineering and intelligent systems** — not just using technology, but understanding how it works and what I can build with it.
-
-- 🎓 B.Tech CSE — AI & ML
-- 💻 Learning by building and experimenting
-- 🌐 Interested in full-stack development and backend engineering
-- 🤖 Exploring machine learning and AI-powered applications
-- 🔬 Interested in research, open source, and collaborative projects
-
-I believe the best way to learn is to build something, break it, understand why, and make it better.
-
-## Selected Projects
-
-<div align="center">
-
-<a href="https://github.com/suryansh-cse/VirtualEdge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryansh-cse&repo=VirtualEdge&theme=github_dark&hide_border=true" alt="VirtualEdge repository card" />
-</a>
-
-</div>
-
-### 🌊 VirtualEdge — Flood Monitoring
-
-An IoT-based flood monitoring project that combines water-level sensing with software for data collection and monitoring.
-
-- **Working on:** Sensor data pipelines, backend APIs, and dashboard integration
-- **Technologies:** Python, FastAPI, ESP8266, and web technologies
-- **Goal:** Turn sensor readings into useful monitoring information
-
-[View repository →](https://github.com/suryansh-cse/VirtualEdge)
-
-### 🌐 Infotris — Knowledge & Learning
-
-A platform built around the idea of organizing knowledge into structured trails, making it easier to explore subjects and understand how concepts connect.
-
-- **Focus:** Knowledge organization and learning experiences
-- **Exploring:** Structured learning paths and educational technology
-
-[Visit Infotris →](https://infotris.com)
-
-### ♻️ ReCircuit — E-Waste Management
-
-A web application project focused on making electronic waste collection and tracking more organized.
-
-- **Focus:** Collection workflows, data management, and tracking
-- **Exploring:** Backend development, databases, and location-based features
-
-### 🤖 Sidekick — Personal AI Assistant
-
-A long-term project idea exploring how AI could connect with everyday applications, personal notes, tasks, and workflows.
-
-- **Focus:** AI-assisted workflows, automation, and application integration
-- **Status:** Long-term concept and exploration
-
----
-
-## Technologies
-
-### Languages & Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" alt="Programming and web technologies" />
-</p>
-
-### Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,sqlite,postgres" alt="Backend frameworks and databases" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
-</p>
-
-> These are technologies from my current development and learning journey, not a claim of equal proficiency in every tool.
-
-## What I'm Working On
-
-| Area | Focus |
-|:--|:--|
-| Programming | Strengthening Python and C++ fundamentals |
-| Problem-solving | Developing logical thinking and DSA skills |
-| Web development | Improving frontend and backend skills |
-| Backend engineering | APIs, databases, and application architecture |
-| AI & ML | Learning the fundamentals before moving to advanced projects |
-| Projects | Building, testing, debugging, and documenting real applications |
-
-## Learning Roadmap
-
-```mermaid
-flowchart TD
-    A[Programming Fundamentals] --> B[Python and C++]
-    B --> C[Data Structures and Algorithms]
-    B --> D[Web Development]
-    D --> E[Backend and Databases]
-    C --> F[AI and Machine Learning]
-    E --> G[Complete Software Projects]
-    F --> G
-    G --> H[Research and Open Source]
-    H --> I[Build More Intelligent Systems]
-```
-
-The plan is simple: develop strong fundamentals, build increasingly complex projects, and learn the theory behind the systems I create.
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryansh-cse&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-cse&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=66B2FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Suryansh;B.Tech+CSE+%40+LPU;Artificial+Intelligence+%26+Machine+Learning;Building+software+and+learning+every+day;Turning+ideas+into+working+projects" alt="Suryansh animated introduction" />
 
 <br><br>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=suryansh-cse&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/suryansh-cse">
+<img src="https://img.shields.io/badge/GitHub-suryansh--cse-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/CSE-AI%20%26%20ML-2563EB?style=for-the-badge" alt="CSE AI and ML" />
+<img src="https://img.shields.io/badge/Currently-Building-16A34A?style=for-the-badge" alt="Currently building" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=suryansh-cse&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<sub>GitHub statistics are automatically generated and may occasionally be unavailable. Language statistics reflect repository code, not necessarily proficiency.</sub>
 
 ---
 
-## Beyond the Code
+## `01` — A little about me
 
-I'm interested in more than completing assignments. I want to understand how software systems are designed, how AI can solve useful problems, and how small projects can eventually grow into something more capable.
+Hey, I'm **Rian**, a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning at Lovely Professional University**.
 
-For now, that means staying curious, learning the fundamentals, and doing the work.
+I'm interested in building software, understanding how systems work, and exploring how AI can be used to solve real problems.
+
+Most of my learning happens through projects. I experiment, make mistakes, debug things, and try to understand the reasoning behind what I'm building.
+
+- 💻 Programming and software development
+- 🌐 Web applications and backend systems
+- 🤖 Artificial intelligence and machine learning
+- 🔧 APIs, databases, and system design
+- 🚀 Personal projects and collaborative development
 
 <div align="center">
 
-### Build. Learn. Improve. Repeat.
-
-[![Explore my repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryansh-cse?tab=repositories)
-[![Visit Infotris](https://img.shields.io/badge/Visit_Infotris-2864DC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://infotris.com)
-
-<sub>Thanks for visiting my profile.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=520&lines=Learn+the+fundamentals.;Build+something+useful.;Understand+how+it+works.;Repeat." alt="Animated learning philosophy" />
 
 </div>
+
+---
+
+## `02` — Projects
+
+### 🌊 VirtualEdge
+
+<img src="https://img.shields.io/badge/STATUS-In%20Development-D97706?style=flat-square" alt="In development" />
+<img src="https://img.shields.io/badge/DOMAIN-IoT%20%2B%20Backend-2563EB?style=flat-square" alt="IoT and backend" />
+
+An IoT-based flood-monitoring project that combines water-level sensor readings with a backend for receiving, storing, and monitoring data.
+
+**My focus:** Backend APIs, sensor-data processing, and dashboard integration.
+
+**Technologies:** Python, FastAPI, ESP8266, and web technologies.
+
+```mermaid
+flowchart LR
+    A[Water-Level Sensor] --> B[ESP8266]
+    B --> C[Sensor Data]
+    C --> D[Backend API]
+    D --> E[(Database)]
+    D --> F[Dashboard]
+```
+
+<a href="https://github.com/suryansh-cse/VirtualEdge">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View VirtualEdge repository" />
+</a>
+
+### 🌐 Infotris
+
+<img src="https://img.shields.io/badge/STATUS-Project-2563EB?style=flat-square" alt="Project" />
+<img src="https://img.shields.io/badge/DOMAIN-Knowledge%20%26%20Learning-7C3AED?style=flat-square" alt="Knowledge and learning" />
+
+A platform built around organizing knowledge into structured trails, helping people explore topics and discover how concepts connect.
+
+**Focus:** Knowledge organization, learning paths, and educational technology.
+
+```mermaid
+flowchart TD
+    A[Topics] --> B[Structured Trails]
+    B --> C[Connected Concepts]
+    C --> D[Explore and Learn]
+```
+
+<a href="https://infotris.com">
+<img src="https://img.shields.io/badge/VISIT%20INFOTRIS-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Infotris" />
+</a>
+
+### ♻️ ReCircuit
+
+<img src="https://img.shields.io/badge/STATUS-In%20Development-D97706?style=flat-square" alt="In development" />
+<img src="https://img.shields.io/badge/DOMAIN-Web%20Application-0891B2?style=flat-square" alt="Web application" />
+
+A smart e-waste management website concept focused on organizing collection records, waste tracking, and operational workflows.
+
+**Exploring:** Django, databases, user workflows, and location-based features.
+
+```mermaid
+flowchart TD
+    A[User or Operator] --> B[Web Interface]
+    B --> C[Backend]
+    C --> D[(Database)]
+    C --> E[Collection Records]
+```
+
+### 🤖 Sidekick
+
+<img src="https://img.shields.io/badge/STATUS-Long--Term%20Concept-6B7280?style=flat-square" alt="Long-term concept" />
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%26%20Automation-7C3AED?style=flat-square" alt="AI and automation" />
+
+A long-term idea for a personal assistant that connects AI with notes, tasks, reminders, and supported application actions.
+
+The concept emphasizes user permissions, understandable actions, and control over automation.
+
+---
+
+## `03` — Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&theme=dark" alt="Programming and web technologies" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,sqlite,postgres&theme=dark" alt="Backend and database technologies" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools" />
+
+</div>
+
+<sub>These represent technologies I've used or explored in my development journey. My experience varies by technology.</sub>
+
+---
+
+## `04` — Current learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&width=520&lines=Strengthening+programming+fundamentals;Learning+backend+engineering;Exploring+AI+%26+ML;Building+better+projects" alt="Current learning animation" />
+
+</div>
+
+| Area | Current focus |
+|:--|:--|
+| Python & C++ | Fundamentals and problem-solving |
+| DSA | Data structures and algorithms |
+| Web development | HTML, CSS, JavaScript |
+| Backend | APIs, databases, application structure |
+| AI & ML | Mathematics and core concepts |
+| Engineering | Debugging, testing, and documentation |
+
+- [ ] Strengthen programming fundamentals
+- [ ] Improve problem-solving and DSA
+- [ ] Build complete web applications
+- [ ] Understand database design and APIs
+- [ ] Develop practical AI/ML projects
+- [ ] Contribute to open-source projects
+
+---
+
+## `05` — GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suryansh-cse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=suryansh-cse&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## `06` — Contribution journey
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+
+</div>
+
+---
+
+## `07` — Let's connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=550&lines=Have+an+interesting+project%3F;Let's+build+and+learn+together.;Always+open+to+good+ideas." alt="Animated collaboration message" />
+
+<br><br>
+
+<a href="https://github.com/suryansh-cse">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://infotris.com">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Infotris website" />
+</a>
+
+<!-- Add verified LinkedIn and email links when ready. -->
+
+<br><br>
+
+**BUILD • LEARN • IMPROVE**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:3978FF,50:163B5C,100:080B16&section=footer" alt="Animated footer" />
+
+</div>
+
+
 
 
