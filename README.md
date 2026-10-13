@@ -18,7 +18,7 @@
 
 ## About
 
-Hey, I'm **Rian**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning at Lovely Professional University**.
+Hey, I'm **Suryansh**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning at Lovely Professional University**.
 
 I enjoy taking an idea, figuring out how it could work, and turning it into something people can actually use.
 
