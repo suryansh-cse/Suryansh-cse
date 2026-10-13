@@ -1,81 +1,221 @@
+
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Hi, I'm Suryansh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:4F8CFF&text=Rian&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=CSE%20%7C%20AI%20%26%20ML%20%7C%20Software&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Rian's GitHub header" />
 
-**Computer Science Student | AI/ML | Web Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=CSE+Student+%40+LPU;Learning+Python%2C+C%2B%2B+%26+AI%2FML;Building+Projects+That+Actually+Work;Always+Learning+Something+New" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryansh-cse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-cse10 )
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suryansh1_0 )
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Suryansh10s)
+<br><br>
+
+<img src="https://img.shields.io/badge/CSE-AI%20%26%20ML-4F8CFF?style=for-the-badge" alt="CSE AI and ML" />
+<img src="https://img.shields.io/badge/Developer-Student-2ea44f?style=for-the-badge" alt="Developer" />
+<img src="https://img.shields.io/badge/Currently-Learning-orange?style=for-the-badge" alt="Currently learning" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=suryansh-cse&label=PROFILE+VIEWS&color=4F8CFF&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+<br>
 
-## About Me
+<!-- ===================== ABOUT ===================== -->
+## 👋 About Me
 
-- 🎓 B.Tech CSE (AI & ML) student
-- 💻 Interested in AI/ML and web development
-- 🌱 Currently learning Python, C++, DSA and Machine Learning
-- 🔨 I like building small projects and learning by doing
-- 📚 Exploring open source and new technologies
+Hey, I'm **Rian**, a B.Tech CSE student specializing in **Artificial Intelligence and Machine Learning at Lovely Professional University**.
 
-## Skills
+I'm interested in software development, AI, and building things that solve actual problems. Most of my learning happens while working on projects, figuring things out, and improving what I've already built.
 
-**Languages**
+- 🎓 B.Tech CSE — AI & ML
+- 💻 Learning programming and software engineering
+- 🌐 Building web applications and backend systems
+- 🤖 Exploring AI, machine learning, and intelligent applications
+- 🔧 Interested in turning ideas into working projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I don't know everything yet, and that's fine. I'm here to learn, build, and get better.
 
-**Tools & Technologies**
+<br>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 Tech Stack
 
-## Projects
+### 💻 Programming & Web Development
 
-### VirtualEdge
-IoT telemetry and device monitoring project.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" alt="Python, C++, HTML, CSS and JavaScript" />
+</p>
 
-### ReCircuit
-Web-based smart e-waste management project for submission, collection and tracking.
+### ⚙️ Backend & Databases
 
-### Infotris
-A web project focused on organizing knowledge into structured learning paths.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,sqlite,postgres" alt="Django, FastAPI, SQLite and PostgreSQL" />
+</p>
 
+### 🛠️ Tools & Platforms
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" alt="Git, GitHub, VS Code, Linux and Postman" />
+</p>
 
-## Currently Learning
+### 🤖 Areas I'm Exploring
 
-- Python
-- C++
-- Data Structures & Algorithms
-- Machine Learning
-- Backend Development
-- Git & GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-333333?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4F8CFF?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/IoT%20Systems-7952B3?style=for-the-badge" alt="IoT Systems" />
+</p>
 
-## GitHub Stats
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Projects
+
+### 🌐 [Infotris](https://infotris.com)
+
+**A structured way to explore knowledge and learning paths.**
+
+I'm working on a platform that organizes knowledge into structured trails, helping people explore topics and understand how different concepts connect.
+
+- **Focus:** Learning paths, knowledge organization, and educational technology
+- **Exploring:** Better learning experiences and structured content
+
+### 🌊 [VirtualEdge](https://github.com/suryansh-cse/VirtualEdge)
+
+**IoT-based flood monitoring and alert system.**
+
+A collaborative project focused on monitoring water levels using sensor data and sending that data to a backend for monitoring.
+
+- **Focus:** ESP8266, sensor data, backend APIs, and dashboards
+- **Technologies:** Python, FastAPI, IoT, and web technologies
+
+### ♻️ ReCircuit
+
+**Smart e-waste management system.**
+
+A web application concept focused on making electronic waste collection and tracking more organized.
+
+- **Focus:** E-waste collection, tracking, and management
+- **Exploring:** Web development, databases, and location-based features
+
+### 🤖 Sidekick
+
+**A personal AI assistant concept.**
+
+A long-term idea for an assistant that connects AI with everyday applications, notes, tasks, and workflows, with user-controlled permissions.
+
+- **Focus:** AI assistants, automation, and application integration
+- **Status:** Concept and future development
+
+<br>
+
+<!-- ===================== ROADMAP ===================== -->
+## 🗺️ Learning Roadmap
+
+```mermaid
+flowchart TD
+    A[Programming Fundamentals] --> B[Python and C++]
+    B --> C[Data Structures and Algorithms]
+    B --> D[Web Development and APIs]
+    D --> E[Backend Systems]
+    C --> F[AI and Machine Learning]
+    E --> G[Build Complete Projects]
+    F --> G
+    G --> H[Research and Advanced Systems]
+```
+
+My goal is to develop strong programming fundamentals first, then use them to build more capable software and AI-powered systems.
+
+<br>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+## 🎯 What I'm Focusing On
+
+| Area | Current direction |
+|:--|:--|
+| 🐍 Python | Programming fundamentals and applications |
+| 💻 C++ | Problem-solving and core programming |
+| 🌐 Web Development | HTML, CSS, JavaScript, and backend development |
+| 🗄️ Databases | SQL, data modeling, and application storage |
+| 🤖 AI & ML | Mathematics, fundamentals, and practical projects |
+| 🔧 Git & GitHub | Version control and collaborative development |
+| 🚀 Projects | Building, testing, debugging, and improving applications |
+
+<br>
+
+<!-- ===================== LEARNING ===================== -->
+## 🌱 Currently Learning
+
+- [ ] Strengthen Python and C++ fundamentals
+- [ ] Improve problem-solving and DSA
+- [ ] Build better backend applications and APIs
+- [ ] Get more comfortable with databases
+- [ ] Learn the mathematics behind machine learning
+- [ ] Build practical AI/ML projects
+- [ ] Contribute to open-source projects
+- [ ] Learn by building and shipping projects
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryansh-cse&show_icons=true&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suryansh-cse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-cse&layout=compact&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-cse&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=suryansh-cse&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
----
+<br>
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+## 🐍 Contribution Graph
 
 <div align="center">
 
-Thanks for visiting my profile! 👋
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
+
+<br>
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F2027,50:4F8CFF,100:0F2027" width="100%" alt="Section divider" />
+
+<br>
+
+## 🤝 Find Me Online
+
+<a href="https://github.com/suryansh-cse">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+&nbsp;
+<a href="https://infotris.com">
+  <img src="https://img.shields.io/badge/Infotris-Website-4F8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Infotris website" />
+</a>
+
+<br><br>
+
+If you're working on something interesting, feel free to check out my repositories.
+
+<br>
+
+**BUILD • LEARN • IMPROVE**
+
+<br>
+
+<sub>Thanks for stopping by!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F8CFF,50:203A43,100:0F2027&section=footer" width="100%" alt="Footer" />
+
+</div>
+
