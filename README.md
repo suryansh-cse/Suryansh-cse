@@ -27,7 +27,7 @@
 
 ## `01` — A little about me
 
-Hey, I'm **Rian**, a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning at Lovely Professional University**.
+Hey, I'm **Suryansh**, a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning at Lovely Professional University**.
 
 I'm interested in building software, understanding how systems work, and exploring how AI can be used to solve real problems.
 
